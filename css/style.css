@@ -1,0 +1,76 @@
+*{margin: 0; padding: 0;}
+.navsection{
+	padding-top: 8.9vh;
+	padding-left:8vh;
+	padding-right:8vh;
+	padding-bottom:5vh;
+	font-size: 4vh;
+}
+.home{
+	padding-right: 10vh;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+.github{
+	padding-right: 10vh;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+.stackoverflow{
+	padding-right: 10vh;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+.aboutme{
+	padding-right: 10vh;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+.rightsection{
+	padding-top: 25vh;
+	padding-bottom: 0vh;
+	font-size: 5vh;
+	font-family: 'Roboto', sans-serif;
+	padding-left: 1vh;
+}
+.contact{
+	padding:1vh;
+	border-radius: 12px;
+	margin: 4px,2px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 2vh;
+}
+.bro{
+	font-size: 3vh;
+	padding-top: 2vh;
+	padding-bottom: 2vh;
+}
+.leftsection{
+	font-size: 4.1vh;
+	padding-left: 110vh;
+	padding-bottom: 8vh;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 10vh;
+}
+.copyright{
+	font-size: 2.3vh;
+	font-family: 'Roboto', sans-serif;
+/*	color: #ffffff;
+*/}
+.copyrighttext{
+	padding-top: 16vh;
+	padding-bottom: 5vh;
+	color: #ffffff;
+}
+.header{
+	background-image: url('websitebackground.png');
+}
+.lastsection{
+	padding-top: 5vh;
+	font-family: 'Roboto', sans-serif;
+	padding-left: 1vh;
+	font-size: 4vh;
+}
+.tital1{
+	padding-bottom: 2vh;
+}
