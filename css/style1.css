@@ -1,0 +1,65 @@
+*{margin: 0%;padding:0%;}
+
+.hey{
+	padding-top: 3vh;
+	font-size: 6vh;
+/*	color: #ffffff;
+*/	padding-bottom: 4vh;
+	background-color:  #ffffe0;
+	font-family: 'Roboto', sans-serif;
+}
+.you{
+	padding-top: 3vh;
+	font-size: 6vh;
+/*	color: #ffffff;
+*/	padding-bottom: 4vh;
+	background-color:  #ffffe0;
+	font-family: 'Roboto', sans-serif;
+}
+.git{
+	padding-top: 3vh;
+	font-size: 6vh;
+/*	color: #ffffff;
+*/	padding-bottom: 3vh;
+	background-color:  #ffffe0;
+	font-family: 'Roboto', sans-serif;
+}
+.stack{
+	padding-top: 3vh;
+	font-size: 6vh;
+	/*color: #ffffff;*/
+	padding-bottom: 0vh;
+	background-color:  #ffffe0;
+	font-family: 'Roboto', sans-serif;
+}
+div{
+	padding-top: 15vh;
+	background-color:  #ffffe0;
+	padding-bottom: 24.7vh;
+}
+h1{
+	text-align: center;
+	padding-top: 5vh;
+	font-size: 10vh;
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 2vh;
+	background-color: #FFA500;
+}
+h3{
+	text-align: center;
+	font-size: 7vh.
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	background-color:  #ffcccb;
+}
+body{
+	/*background-color:  #000000;*/
+}
+.there{
+	color: #ffffff;
+	font-family: 'Roboto', sans-serif;
+}
+.link{
+	background-color:  #ffffe0;
+}
