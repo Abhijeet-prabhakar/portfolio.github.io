@@ -2,35 +2,39 @@
 
 .hey{
 	padding-top: 3vh;
-	font-size: 6vh;
+	font-size: 7vh;
 /*	color: #ffffff;
-*/	padding-bottom: 4vh;
+*/	color: #000000;
+    padding-bottom: 4vh;
 	background-color:  #ffffe0;
 	font-family: 'Roboto', sans-serif;
 }
 .you{
 	padding-top: 3vh;
-	font-size: 6vh;
+	font-size: 7vh;
 /*	color: #ffffff;
 */	padding-bottom: 4vh;
+    color: #000000;
 	background-color:  #ffffe0;
 	font-family: 'Roboto', sans-serif;
 }
 .git{
 	padding-top: 3vh;
-	font-size: 6vh;
+	font-size: 7vh;
 /*	color: #ffffff;
-*/	padding-bottom: 3vh;
+*/	padding-bottom: 7vh;
+    color: #000000;
 	background-color:  #ffffe0;
 	font-family: 'Roboto', sans-serif;
 }
 .stack{
 	padding-top: 3vh;
-	font-size: 6vh;
+	font-size: 7vh;
 	/*color: #ffffff;*/
 	padding-bottom: 0vh;
 	background-color:  #ffffe0;
 	font-family: 'Roboto', sans-serif;
+    color: #000000;
 }
 div{
 	padding-top: 15vh;
@@ -62,4 +66,7 @@ body{
 }
 .link{
 	background-color:  #ffffe0;
+}
+strong{
+	font-family: 'Roboto', sans-serif;
 }
